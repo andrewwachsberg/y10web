@@ -1,0 +1,15 @@
+<html>
+
+    <button onclick="myfunction()">clickme</button>
+    
+    <script>
+    
+        function ,yfunction() {
+                var mydiv = document.getElementById("printhere");
+                mydiv.innerHTML = "Hello King Andrew";
+                
+        }
+        
+        </script>
+        
+</html>
